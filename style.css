@@ -1,0 +1,43 @@
+*{
+		margin: 6px;
+		
+}
+body {
+		background: white;
+		text-align: center;
+		animation: 20s back infinite;
+		
+}
+@keyframes back {
+		0%{
+				background: white;
+		}
+		20%{
+				background: whitesmoke;
+		}
+		30%{
+				background: wheat;
+		}
+		40%{
+				background: deepskyblue;
+		}
+		50%{
+				background: blue;
+		}
+		60% {
+				background: black;
+		}
+		70%{
+				background: pink;
+		}
+		80% {
+				background: red;
+		}
+		90%{
+				background: royalblue;
+		}
+		100%{
+				background: lightblue;
+		}
+}
+
