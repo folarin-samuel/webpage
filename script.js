@@ -39,4 +39,4 @@ function nexts(){
 }
 prev.addEventListener('click', pre);
 next.addEventListener('click', nexts);
-//alert(location.href)
+alert(location.href);
